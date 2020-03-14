@@ -1,0 +1,19 @@
+Index,Size,Active,Method,Train Loss,Test Loss
+1,25,relu,simple,49.38,82.63
+2,25,relu,rprop,51.84,85.81
+3,25,relu,quickprop,253.48,257.75
+4,50,relu,simple,39.77,65.78
+5,50,relu,rprop,27.17,60.49
+6,50,relu,quickprop,135.05,157.59
+7,75,relu,simple,37.84,62.07
+8,75,relu,rprop,26.82,58.47
+9,75,relu,quickprop,131.59,153.72
+10,25,tanh,simple,147.35,303.64
+11,25,tanh,rprop,87.14,248.35
+12,25,tanh,quickprop,663.52,951.52
+13,50,tanh,simple,65.56,208.41
+14,50,tanh,rprop,25.62,189.71
+15,50,tanh,quickprop,759.58,802.58
+16,75,tanh,simple,35.05,193.73
+17,75,tanh,rprop,13.19,268.49
+18,75,tanh,quickprop,607.82,710.25
