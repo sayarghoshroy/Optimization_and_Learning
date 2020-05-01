@@ -4,6 +4,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/Optimization_and_Learning/blob/master/Optimization_Learning.ipynb) **The first four problems**
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/Optimization_and_Learning/blob/master/gradient_ascent.ipynb) **The fifth problem**
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/Optimization_and_Learning/blob/master/Concrete_Compressive_Strength_Regression.ipynb) **The final problem**
 
 ---
@@ -14,7 +16,9 @@
 
 - Problem 4 shows how data normalization can lead to faster training. A further analysis on the structure of datasets and 'good' learning rates has been provided.
 
-- Problem 5 shows the use of Rprop and Quickprop for a regression task. We compare a one hidden-layer neural network architecture for the task, with different number of hidden neurons, different activation functions, with normal batch backpropagation, Rprop and Quickprop. The dataset used for this problem is the Concrete Compressive Strength dataset which can be found [here](https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength).
+- Problem 5 explores the gradient ascent technique to calculate the local maxima of functions.
+
+- Problem 6 shows the use of Rprop and Quickprop for a regression task. We compare a one hidden-layer neural network architecture for the task, with different number of hidden neurons, different activation functions, with normal batch backpropagation, Rprop and Quickprop. The dataset used for this problem is the Concrete Compressive Strength dataset which can be found [here](https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength).
 
 ---
 
